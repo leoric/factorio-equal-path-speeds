@@ -1,9 +1,9 @@
 {
   "name": "equal-path-speeds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Equal Path Speeds",
   "author": "leoric",
-  "factorio_version": "2.0",
-  "dependencies": ["base"],
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"],
   "description": "Sets the walking speed of stone bricks and concrete to match refined concrete."
 }
